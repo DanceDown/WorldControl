@@ -1,0 +1,10 @@
+main: me.Control.Home
+name: WorldControl
+version: 0.1
+description: Switch, Edit, Generate and Remove Worlds
+api-version: 1.18
+
+commands:
+  world:
+    usage: '§c/world {switch|edit|create|remove} [name]'
+    description: 'Switch, Edit, Generate or Remove Worlds'
